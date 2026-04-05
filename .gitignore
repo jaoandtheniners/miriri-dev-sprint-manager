@@ -2,5 +2,5 @@
 node_modules/
 .next/
 .env.local
-DEPLOY.md
+.DEPLOY.md
 *.log
